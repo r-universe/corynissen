@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "fitbitScraper"]
+	path = fitbitScraper
+	url = https://github.com/corynissen/fitbitscraper
+	shallow = true
+	registered = true
